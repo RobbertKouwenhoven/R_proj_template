@@ -1,3 +1,6 @@
+# Use of this template
+This template is used by Robbert Kouwenhoven for AGDS week 7. 
+
 # The GECO R project template
 
 This is a github template for a GECO R project repository. This template can
